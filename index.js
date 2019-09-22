@@ -22,4 +22,3 @@ function logWhisper(string){
    string.toUpperCase()
 string==='I love you, Grandma.';
  }
- string.toLowerCase(string);
