@@ -20,3 +20,4 @@ function logWhisper(string){
    string.toUpperCase()
 sayHiToGrandma==='I love you, too.';
  }
+ string.toLowerCase(string);
