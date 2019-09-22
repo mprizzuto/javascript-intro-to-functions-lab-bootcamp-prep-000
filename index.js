@@ -18,5 +18,5 @@ function logWhisper(string){
    return 
    string.toLowerCase();
    string.toUpperCase();
-
+string===''
  }
